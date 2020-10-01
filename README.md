@@ -1,2 +1,2 @@
 # FlaskDeploymentUbuntu18
-A Minimal Flask App along with deployment instructions
+A Minimal Flask Application along with deployment instructions
